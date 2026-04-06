@@ -1,12 +1,12 @@
 # A4_poskick
-POSCO AI BIGDATA Acadmey 25th A4group AI Project
+AI BIGDATA Acadmey 25th A4group AI Project
 
 
 ## Project Introduction
 e-sctooer AI safety monitoring system : POSKICK
 
 ## Team Introduction
-- Tayoung Kim : Leader, drive project initative, design system architecture, select main research and skills, two riders detection
+- Tayoung Kim : Leader, drive project initative, design system architecture, select main research and skills, ondevice ai architecture, two riders detection
 - MS Kim : two riders detection, android app develop
 - RH Kim : rider helmet detection
 - SY Yun : rider helmet detection
