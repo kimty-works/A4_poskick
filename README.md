@@ -18,3 +18,12 @@ e-sctooer AI safety monitoring system : POSKICK
 1. e-scooters rider helmet detection 
 2. e-scooters two riders detection 
 3. e-scooters illegal parking spot detectoin 
+
+## Result
+#### e-scooters rider helmet detection
+Model Yolov8(Epochs 120, mAP 0.981)
+#### e-scooters two riders detection
+Velostat HW Design(pressure threshold > 200)
+#### e-scooters illegal parking spot detection
+MovibleNet V2(Quatization;original, test accruacy : 0.6888)
+MovibleNet V2(Quatization;TFLite, test accruacy : 0.6559)
